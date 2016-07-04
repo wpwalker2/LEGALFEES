@@ -1,0 +1,24 @@
+{
+	"responsive": true,
+	"tmpSocialIconFont": true,
+    "enableEditorJS": true,
+    "plugins": [
+		{
+            "name": "navpane",
+            "condense": 768,
+            "defaults": {
+                "forced": true
+            }
+        }
+	],
+    "description": "Stripes gives your website the look and feel of a modern publication. A dramatic background sets the tone for each page and collapsable navigation keeps the focus on your content.",
+    "features": [
+        "responsive",
+        "css-buttons",
+        "social-icons",
+        "full-width-header",
+        "background-image",
+        "navigation-collapsible",
+        "color-palettes"
+    ]
+}
